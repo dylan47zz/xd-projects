@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Excel output on Desktop (not in repo)
+钢铁行业模型V11.1.xlsx
+
+# Large PDF (not in repo)
+中国碳中和目标下的工业低碳技术展望.pdf
+
+# IDE
+.codeflicker/
+.idea/
+.vscode/
