@@ -1,15 +1,6 @@
-# Python
-venv/
-__pycache__/
-*.pyc
+# 临时文件
+*.tmp
+~$*
 
-# macOS
+# 系统文件
 .DS_Store
-
-# Excel output on Desktop (not in repo) - but V11.1 result IS in repo
-# 中国碳中和目标下的工业低碳技术展望.pdf
-
-# IDE
-.codeflicker/
-.idea/
-.vscode/
